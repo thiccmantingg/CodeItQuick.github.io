@@ -21,11 +21,11 @@ tags: chefsplate simple
 <div class="block min-w-max w-3/12">
 <h1>Ingredients</h1>
 <ul>
-<li> Chicken Thighs/Chicken Breasts</li>
+<li> Chicken Breasts</li>
 <li> Baby spinach</li>
 <li> Indian spice mix</li>
 <li> Tikka sauce</li>
-<li> Cream</li>
+<li> Greek Yoghurt</li>
 <li> Garlic, cloves</li>
 <li> Yellow onion</li>
 <li> Tomato</li>
